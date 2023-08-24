@@ -1,0 +1,1 @@
+# Integrando-o-zabbix-com-Downdetector
